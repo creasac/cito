@@ -1,6 +1,6 @@
 <h3 align="center">🔍 cito</h3>
 
-<p align="center">Search the web from anywhere on your desktop.</p>
+<p align="center">Search the web from anywhere on your desktop.<br>The name <code>cito</code> comes from Latin, meaning “quickly” or “swiftly.”</p>
 
 ---
 
